@@ -1,0 +1,9 @@
+langchain
+langchain-openrouter
+langchain-community
+langchain-classic
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
